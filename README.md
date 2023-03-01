@@ -1,3 +1,3 @@
-This is an edit on the main branch
+This should create a conflict
 
 This is an edit on the test branch
